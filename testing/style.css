@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.form1 {
+  background-color: gray;
+  height: 6rem;
+  width: 40%;
+  text-align: center;
+  margin: 10rem auto;
+  padding: 2rem;
+  line-height: 1rem;
+  box-shadow: rgb(128, 128, 128, 0.5);
+}
+.form label {
+  margin-bottom: 1rem;
+}
